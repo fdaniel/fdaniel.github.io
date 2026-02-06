@@ -1,0 +1,224 @@
+{
+  "projects": [
+    {
+      "client": "Efaflu",
+      "name": {
+        "en": "Industrial B2B E-commerce Platform",
+        "pt": "Plataforma E-commerce B2B Industrial"
+      },
+      "description": {
+        "en": "B2B platform for industrial pumping, ventilation, and generator equipment. Bought template heavily customized with tons of custom features and tailored product catalog.",
+        "pt": "Plataforma B2B para equipamentos industriais de bombagem, ventilação e geradores. Template adquirido altamente personalizado com diversas funcionalidades custom e catálogo de produtos adaptado."
+      },
+      "role": {
+        "en": "Senior Developer",
+        "pt": "Desenvolvedor Sénior"
+      },
+      "url": "https://efaflu.pt",
+      "thumbnail": "img/efaflu.jpg",
+      "tech": ["WordPress", "WooCommerce", "Custom Features", "PHP"],
+      "category": "custom",
+      "year": 2024
+    },
+    {
+      "client": "Porto Duck Store",
+      "name": {
+        "en": "Themed Gift E-commerce Store",
+        "pt": "Loja Online de Presentes Temáticos"
+      },
+      "description": {
+        "en": "E-commerce store for a collectible rubber duck brand originating from Amsterdam. Bought template with custom tweaks and ERP integration for inventory and order management.",
+        "pt": "Loja online para marca de patos de borracha colecionáveis originária de Amesterdão. Template adquirido com ajustes personalizados e integração ERP para gestão de inventário e encomendas."
+      },
+      "role": {
+        "en": "Senior Developer",
+        "pt": "Desenvolvedor Sénior"
+      },
+      "url": "https://portoduckstore.pt",
+      "thumbnail": "img/portoduckstore.jpg",
+      "tech": ["WordPress", "WooCommerce", "ERP Integration", "PHP"],
+      "category": "ecommerce",
+      "year": 2024
+    },
+    {
+      "client": "Livraria Manuel Ferreira",
+      "name": {
+        "en": "Antiquarian Bookstore Online",
+        "pt": "Livraria Alfarrabista Online"
+      },
+      "description": {
+        "en": "Fully custom WordPress website for a historic antiquarian bookstore operating since 1959 in Porto. Custom theme, custom plugins, and a bespoke advanced search engine built specifically for this project.",
+        "pt": "Website WordPress totalmente personalizado para livraria alfarrabista histórica a operar desde 1959 no Porto. Tema custom, plugins custom e motor de pesquisa avançado desenvolvido especificamente para este projeto."
+      },
+      "role": {
+        "en": "Senior Developer",
+        "pt": "Desenvolvedor Sénior"
+      },
+      "url": "https://livrariaferreira.pt",
+      "thumbnail": "img/livrariaferreira.jpg",
+      "tech": ["WordPress", "Custom Theme", "Custom Plugins", "Advanced Search", "Performance Optimized"],
+      "category": "custom",
+      "year": 2023
+    },
+    {
+      "client": "Herdade do Rocim",
+      "name": {
+        "en": "Wine Estate & E-commerce",
+        "pt": "Herdade Vinícola & E-commerce"
+      },
+      "description": {
+        "en": "Hybrid e-commerce and enotourism platform for an Alentejo wine estate. Bought template with customizations and ERP integration for wine shop, tasting bookings, and brand storytelling.",
+        "pt": "Plataforma híbrida de e-commerce e enoturismo para herdade vinícola do Alentejo. Template adquirido com personalizações e integração ERP para loja de vinhos, reservas de provas e storytelling da marca."
+      },
+      "role": {
+        "en": "Senior Developer",
+        "pt": "Desenvolvedor Sénior"
+      },
+      "url": "https://rocim.pt",
+      "thumbnail": "img/rocim.jpg",
+      "tech": ["WordPress", "WooCommerce", "ERP Integration", "PHP"],
+      "category": "ecommerce",
+      "year": 2023
+    },
+    {
+      "client": "MCoutinho BMW",
+      "name": {
+        "en": "BMW eDrive Landing Page",
+        "pt": "Landing Page BMW eDrive"
+      },
+      "description": {
+        "en": "Fully custom landing page for BMW electric and hybrid vehicles. Custom theme and custom plugins with interactive fuel savings calculator and lead generation for MCoutinho Bomcar dealership.",
+        "pt": "Landing page totalmente personalizada para veículos elétricos e híbridos BMW. Tema e plugins custom com calculadora interativa de poupança de combustível e geração de leads para o concessionário MCoutinho Bomcar."
+      },
+      "role": {
+        "en": "Lead Developer",
+        "pt": "Desenvolvedor Principal"
+      },
+      "url": "https://bmw-lp.mcoutinho.pt",
+      "thumbnail": "img/bmw-mcoutinho.jpg",
+      "tech": ["WordPress", "Custom Theme", "Custom Plugins", "JavaScript", "Performance Optimized"],
+      "category": "custom",
+      "year": 2024
+    },
+    {
+      "client": "MCoutinho Megastore",
+      "name": {
+        "en": "Used Cars Dealership Platform",
+        "pt": "Plataforma de Stand de Usados"
+      },
+      "description": {
+        "en": "Fully custom dealership platform for Porto's largest used car showroom with 300+ vehicles. Custom theme and custom plugins for vehicle catalog, search filters, and lead generation.",
+        "pt": "Plataforma de stand automóvel totalmente personalizada para o maior espaço de carros usados do Porto com 300+ veículos. Tema e plugins custom para catálogo, filtros de pesquisa e geração de leads."
+      },
+      "role": {
+        "en": "Senior Developer",
+        "pt": "Desenvolvedor Sénior"
+      },
+      "url": "https://megastore.mcoutinho.pt",
+      "thumbnail": "img/megastore-mcoutinho.jpg",
+      "tech": ["WordPress", "Custom Theme", "Custom Plugins", "JavaScript", "Performance Optimized"],
+      "category": "custom",
+      "year": 2024
+    },
+    {
+      "client": "MCoutinho BMW Lifestyle",
+      "name": {
+        "en": "BMW Accessories E-commerce",
+        "pt": "E-commerce de Acessórios BMW"
+      },
+      "description": {
+        "en": "Official BMW Motorrad accessories and lifestyle products e-commerce store for MCoutinho Bomcar. Bought template with customizations and ERP integration for product sync and order management.",
+        "pt": "Loja e-commerce de acessórios oficiais BMW Motorrad e produtos lifestyle para MCoutinho Bomcar. Template adquirido com personalizações e integração ERP para sincronização de produtos e gestão de encomendas."
+      },
+      "role": {
+        "en": "Senior Developer",
+        "pt": "Desenvolvedor Sénior"
+      },
+      "url": "https://lifestylebmw.mcoutinho.pt",
+      "thumbnail": "img/lifestyle-bmw.jpg",
+      "tech": ["WordPress", "WooCommerce", "ERP Integration", "PHP"],
+      "category": "ecommerce",
+      "year": 2024
+    },
+    {
+      "client": "IEEC Canada",
+      "name": {
+        "en": "International Education Platform",
+        "pt": "Plataforma de Educação Internacional"
+      },
+      "description": {
+        "en": "Corporate website for an international education consulting firm facilitating student exchange between Canada, China, and Europe. Bought template with custom functionalities and template tweaks.",
+        "pt": "Website corporativo para empresa de consultoria educacional internacional que facilita intercâmbio estudantil entre Canadá, China e Europa. Template adquirido com funcionalidades custom e ajustes no template."
+      },
+      "role": {
+        "en": "Senior Developer",
+        "pt": "Desenvolvedor Sénior"
+      },
+      "url": "https://ieec.ca",
+      "thumbnail": "img/ieec.jpg",
+      "tech": ["WordPress", "Custom Features", "PHP", "WPML"],
+      "category": "corporate",
+      "year": 2023
+    },
+    {
+      "client": "Floene",
+      "name": {
+        "en": "Energy Solutions B2B Portal",
+        "pt": "Portal B2B de Soluções Energéticas"
+      },
+      "description": {
+        "en": "Fully custom B2B platform for Floene energy solutions targeting architects and prescribers. Custom theme and custom plugins with hybrid heating systems documentation and project tools.",
+        "pt": "Plataforma B2B totalmente personalizada para soluções energéticas Floene dirigida a arquitetos e prescritores. Tema e plugins custom com documentação de sistemas de aquecimento híbridos e ferramentas de projeto."
+      },
+      "role": {
+        "en": "Senior Developer",
+        "pt": "Desenvolvedor Sénior"
+      },
+      "url": "https://casascomgas.floene.pt",
+      "thumbnail": "img/floene.jpg",
+      "tech": ["WordPress", "Custom Theme", "Custom Plugins", "PHP", "Performance Optimized"],
+      "category": "custom",
+      "year": 2024
+    },
+    {
+      "client": "JAP Seguros",
+      "name": {
+        "en": "Insurance Brokerage Website",
+        "pt": "Website de Mediação de Seguros"
+      },
+      "description": {
+        "en": "Fully custom corporate website for a Portuguese insurance brokerage. Custom theme and custom plugins for auto, health, home, and life insurance products with 24/7 claims support.",
+        "pt": "Website corporativo totalmente personalizado para mediadora de seguros portuguesa. Tema e plugins custom para produtos de seguros auto, saúde, casa e vida com suporte de sinistros 24/7."
+      },
+      "role": {
+        "en": "Senior Developer",
+        "pt": "Desenvolvedor Sénior"
+      },
+      "url": "https://japseguros.pt",
+      "thumbnail": "img/japseguros.jpg",
+      "tech": ["WordPress", "Custom Theme", "Custom Plugins", "PHP", "Performance Optimized"],
+      "category": "custom",
+      "year": 2023
+    },
+    {
+      "client": "Cientis",
+      "name": {
+        "en": "Cientis Platform",
+        "pt": "Plataforma Cientis"
+      },
+      "description": {
+        "en": "Fully custom WordPress platform built from scratch. Custom theme, custom plugins, and fully optimized for performance with top PageSpeed scores and clean, well-structured code.",
+        "pt": "Plataforma WordPress totalmente personalizada construída de raiz. Tema custom, plugins custom e totalmente otimizada para performance com pontuações PageSpeed de topo e código limpo e bem estruturado."
+      },
+      "role": {
+        "en": "Senior Developer",
+        "pt": "Desenvolvedor Sénior"
+      },
+      "url": "",
+      "thumbnail": "",
+      "tech": ["WordPress", "Custom Theme", "Custom Plugins", "Performance Optimized"],
+      "category": "custom",
+      "year": 2025
+    }
+  ]
+}
