@@ -52,7 +52,7 @@ const i18n = {
     'filter.editorial': 'Editorial',
     'filter.custom': 'Dev Custom',
     'about.title': 'Sobre Mim',
-    'about.text1': 'Olá, sou Senior WordPress Engineer, com mais de 10 anos de experiência a fornecer soluções web de alto desempenho, escaláveis e fáceis de manter. Tenho uma sólida experiência em desenvolvimento personalizado de WordPress (temas e plugins), otimização de performance (Core Web Vitals / PageSpeed), WooCommerce e liderança técnica.',
+    'about.text1': 'Olá, sou um Senior WordPress Engineer, com mais de 10 anos de experiência a fornecer soluções web de alto desempenho, escaláveis e fáceis de manter. Tenho uma sólida experiência em desenvolvimento personalizado de WordPress (temas e plugins), otimização de performance (Core Web Vitals / PageSpeed), WooCommerce e liderança técnica.',
     'about.text2': 'Preocupo-me em trazer a melhor arquitetura, melhorar processos e entregar soluções robustas. Sou altamente autónomo, orientado para a qualidade, e focado na manutenção a longo prazo e no impacto nos negócios.',
     'about.years': 'Anos de Experiência',
     'about.projects': 'Projetos Entregues',
