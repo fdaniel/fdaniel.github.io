@@ -21,7 +21,7 @@ const i18n = {
     'filter.custom': 'Custom Dev',
     'about.title': 'About Me',
     'about.text1': 'Hello, i am a Senior WordPress Engineer, with 10+ years of experience delivering high-performance, scalable and maintainable web solutions. Strong background in custom WordPress development (themes & plugins), performance optimization (Core Web Vitals / PageSpeed), WooCommerce, and technical leadership.',
-    'about.text2': 'I hve always bring the best architecture, improving processes, and delivering robust solutions. I am Highly autonomous, quality-driven, and focused on long-term maintainability and business impact.',
+    'about.text2': 'I have always bring the best architecture, improving processes, and delivering robust solutions. I am Highly autonomous, quality-driven, and focused on long-term maintainability and business impact.',
     'about.years': 'Years Experience',
     'about.projects': 'Projects Delivered',
     'about.brands': 'Brands & Clients',
